@@ -1,0 +1,13 @@
+.avatar {
+    position: relative;
+    right: -618px;
+    top: -108px;
+    border-radius: 50%;
+    width: 75px;
+    height: 75;
+    margin-top: -112px;
+
+.avatar-small {
+  border-radius: 50%;
+  width: 30px;
+}
